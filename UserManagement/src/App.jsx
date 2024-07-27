@@ -1,11 +1,11 @@
 import './App.css'
-import LoginSignUp from './components/LoginSignUp'
+import Header from './components/Header'
 
 function App() {
 
   return (
     <>
-     <LoginSignUp/>
+    <Header />
     </>
   )
 }
